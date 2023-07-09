@@ -21,3 +21,7 @@ Key Findings
 4. Most of the TV Shows on Netflix had only one season
 5. Most of their programs are rated as TV-MA(Matured Audience Only)
 6. USA ranks number one for the country with the most film production
+
+Check out my Tableau Dashboard
+
+[https://public.tableau.com/app/profile/foby.pearl](url)
